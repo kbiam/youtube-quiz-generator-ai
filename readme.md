@@ -19,22 +19,6 @@ A web application that allows users to generate quizzes based on YouTube videos.
 - **YouTube Audio Downloading:** `yt-dlp`
 - **AI Integration:** Google Generative Language API
 
-## Project Structure
-
-```
-youtube-quiz-generator-ai/
-├── display_quiz.php         # Displays the generated quiz
-├── download_audio.php       # Downloads audio from a YouTube video
-├── login.php                # User login page
-├── login_process.php        # Processes login requests
-├── process.php              # Handles quiz generation logic
-├── quiz.php                 # Main page for inputting YouTube links
-├── register.php             # User registration page
-├── register_process.php     # Processes registration requests
-├── transcript.py            # Python script for transcribing audio
-└── styles.css               # (Optional) CSS styles for the application
-```
-
 ## Prerequisites
 
 To run this application, ensure you have the following installed:
