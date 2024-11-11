@@ -1,4 +1,3 @@
-```markdown
 # YouTube Quiz Generator AI
 
 A web application that allows users to generate quizzes based on YouTube videos. This application extracts audio from videos, transcribes the audio content, and generates quiz questions using AI.
